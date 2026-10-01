@@ -1,7 +1,7 @@
 // Sudoku by Offline is King.
 // Offline support: everything the app needs is cached on first visit.
 // Bump VERSION whenever you upload a new index.html so phones pick up the update.
-const VERSION = "sudoku-v14";
+const VERSION = "sudoku-v15";
 const ASSETS = ["./", "./index.html", "./manifest.webmanifest",
   "./icons/icon-192.png", "./icons/icon-512.png", "./icons/icon-maskable-512.png"];
 
